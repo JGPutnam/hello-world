@@ -1,2 +1,2 @@
 # hello-world
-My first github repository
+Hi.  My name is James Putnam.  At least, that's the name my parents gave me at birth.  I've never been an enormous fan of it to tell you the truth.  But I've never managed to find another one that suited me.  I've been given and tried lots: Alpha-J, Jim, Poon, Put, Pooter, Slick James, Putty, etc.  I sometimes wonder if I have a different name I don't even know that I have and that maybe one day I'll discover what it is and I'll start using it and it'll just sound the way I've always imagined my real name would sound.
